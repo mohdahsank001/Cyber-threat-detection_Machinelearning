@@ -23,8 +23,8 @@ _________________________
 
 
 My project code submission would include The following folders and files : 
-**
-1. Pre-processing**  - Consists of all the files that are related to pre-processing or noise removal, this includes Jupyter notebooks and output in csv files. 
+
+**1. Pre-processing**  - Consists of all the files that are related to pre-processing or noise removal, this includes Jupyter notebooks and output in csv files. 
 
 Files that are related to  preprocessing of Task 1 dataset (Inside the folder A1 code): 
 
@@ -58,8 +58,7 @@ Files that are related to modelling with the help of K Means classifier is prese
 
 Files that are related to modelling with the help of logistic classifier is present inside the folder Logistic regression and similarly for the output as well. 
 
-**
-4. Results** - Consists of all the results in csv files and also the related jupyter notebooks. 
+**4. Results** - Consists of all the results in csv files and also the related jupyter notebooks. 
 
 Results consists of 3 sub folders iForest, K Means and Logistic regression. The respective files and jupyter notebooks are present inside each of these folders. 
 
