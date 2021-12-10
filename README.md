@@ -49,4 +49,3 @@ Results consists of 3 sub folders iForest, K Means and Logistic regression. The 
 For each of the model the results are also present inside the jupyter notebook (with detailed analysis) and also the folder output would consist of all csv files with output for each of the model .
 
 5. Output - Selected output for Task 1 and Task 2. For Task 1 I selected the output from the iForest  Classifier and for task 2 I have utilised logistic regression.  
-![image](https://user-images.githubusercontent.com/67852641/145512538-a6b9ee2d-bc6e-4f8b-9277-8fb5ac67d5b0.png)
