@@ -1,7 +1,7 @@
 # Cyber-threat-detection with Machinelearning and associated Models
 -----------------------------------------------------------------------------
 
-In this project I have created a machine learning model to predict and analyse Cyber attacks and threats in a network by doing a comparative analysis among different classification algorithms including isolation forest - publication in progress.
+In this project I have created a machine learning model to predict and analyse Cyber attacks and threats in a network(netflow archive) by doing a comparative analysis among different classification algorithms including isolation forest - publication in progress.
 
 
 Project Abstract : 
