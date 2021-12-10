@@ -9,7 +9,8 @@ Project Abstract :
 
 Malicious insider attacks can be one of the most damaging threats to companies and government organizations. In today’s world we can see many sectors where security is of major concern, Healthcare is particularly an example of a sector where the duty to safeguard the patient data is of utmost importance. Not only the clients who in this case are the patients would request and call for providers to protect their privacy, there would exist even more stern and uncompromising rules and regularities that would govern the way the healthcare organizations would control security.
 
-This project report would analyze the behavior of a net flow archive by the means of unsupervised machine learning methods which would enable us to find potential cyber-attacks in the form of botnet architecture.
+This project would analyze the behavior of a net flow archive by the means of unsupervised machine learning methods which would enable us to find potential cyber-attacks in the form of botnet architecture.
+
 In addition to it, a supervised learning model is trained and the adversarial samples are collected to evaluate if the model would be susceptible to an evasion attack. A cyber-attack is always imminent which might result in confidentiality breach from unauthorized access and misuse which might lead to a potential violation of security. In that case functional security measures will have to be setup to make certain that the personal data is always well protected.
 
 Safeguard against unauthorized access by hackers would result in the manipulation of the data or would result in misuse of the user data leaking all of the confidential data hence compromising the user’s privacy. And this is also a very crucial factor to be adhered to.
