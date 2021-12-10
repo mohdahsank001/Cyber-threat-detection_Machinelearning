@@ -2,9 +2,6 @@
 In this project I have created a machine learning model to predict and analyse Cyber attacks and threats in a network by doing a comparative analysis among different classification algorithms including isolation forest - publication in progress.
 
 
-@author: Mohammed Ahsan Kollathodi 
-
-
 My project code submission would include The following folders and files : 
 
 1. Pre-processing  - Consists of all the files that are related to pre-processing or noise removal, this includes Jupyter notebooks and output in csv files. 
