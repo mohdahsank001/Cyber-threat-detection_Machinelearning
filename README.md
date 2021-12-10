@@ -17,6 +17,10 @@ Safeguard against unauthorized access by hackers would result in the manipulatio
 A machine learning based Cyber-attack detection system would be able to learn from the limited ground truth and then detect new malicious insiders with a higher accuracy. In this project, I aim to develop a machine learning based threat detection system using python and associated libraries.
 
 
+Run file Instructions. : 
+_________________________
+
+
 My project code submission would include The following folders and files : 
 
 1. Pre-processing  - Consists of all the files that are related to pre-processing or noise removal, this includes Jupyter notebooks and output in csv files. 
